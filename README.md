@@ -1,4 +1,4 @@
-# JAMES-L33-Data
+# JAMES-Vertical_Resolution
 
 This directory includes reanalysis and model output datasets used to generate figures in the paper entitled 
 "Improved Surface Layer Simulation Using Refined Vertical Resolution in the GFDL Atmospheric General Circulation Model",
